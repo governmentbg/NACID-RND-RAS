@@ -1,0 +1,19 @@
+{
+	"urls": {
+		"restUrl": "http://localhost:10205/api/",
+		"emsClientUrl": "http://localhost:10101/",
+		"rndClientUrl": "http://localhost:4200/",
+		"portalUrl": "http://localhost:4201/",
+		"rndPortalUrl": "http://localhost:4202/"
+	},
+	"defaultUrl": "restUrl",
+	"trustedOrigins": [
+		"http://localhost:10101",
+		"http://localhost:4205",
+		"http://localhost:4200",
+		"http://localhost:4301",
+		"http://localhost:4203"
+	],
+	"restUrlFromAppOrigin": true,
+	"isTestEnvironment": false
+}
