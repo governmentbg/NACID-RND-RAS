@@ -1,0 +1,216 @@
+{
+	"ACCESSIBILITY": {
+		"DECLARATION": {
+			"FIRST": "The National Centre for Information and Documentation (NACID) undertakes the obligation to ensure accessibility of UMIS 2020 for maximum wide group of users regardless of the used technologies and skills.",
+			"SECOND": "We work actively for improvement of accessibility and usability of this portal and so we are abide by the existing standards and good practices.",
+			"TITLE": "Declaration of Accessibility",
+			"THIRD": "We will adhere to the WCAG 2.0 standards and \"Double-A\" level of conformity in order to meet the defined requirements and criteria of accessibility's level specified by the European Commission referred to the web pages of public administrations, and at the same time we will strive for meeting the requirements of the current internet technologies."
+		},
+		"EXCEPTIONS": {
+			"DESCRIPTION": "Although we try to ensure compatibility with the available standards of accessibility that is not always possible in every aspect. The browsers and development techniques and Internet access grow very fast and some of the standard requirements for accessibility sometimes become redundant. We continuously develop and improve this portal in order to achieve high standarts of accessibility and usability for its content.",
+			"TITLE": "Exceptions"
+		},
+		"INITIATIVE": {
+			"FIRST": "This portal will try to cover a \"Double-A\" level of accessibility according to the last standards of World Wide Web Consortium - Web Content Accessibility Guidelines 2.0.(WCAG 2.0) and \"Double-A\" level of conformity.",
+			"SECOND": "WCAG 2.0 describes how the web pages content can be done more accessible. Carrying out the terms of reference will help more people to feel comfortable and to avail themselves of internet's priorities.",
+			"TITLE": "Web Accessibility Initiative"
+		},
+		"STANDARDS": {
+			"DESCRIPTION": "This portal has been developed to comply with W3C standards for XHTML and CSS. The application represents correctly on currently available internet browsers. The use of W3C standards ensures compatibility with future new or improved browsers.",
+			"TITLE": "W3C Standards"
+		}
+	},
+	"APP": {
+		"FOOTER": {
+			"COPYRIGHT": "NACID",
+			"MENU": {
+				"ACCESSIBILITY": "Accessibility policy",
+				"CONTACTS": "Contacts",
+				"HELP": "Help",
+				"INSTRUCTIONS": "Instructions for use",
+				"SERVICES": "Other services",
+				"SITEMAP": "Sitemap"
+			},
+			"MON": "Ministry of Education and Science",
+			"NACID": "National Centre for Information and Documentation",
+			"PROJECT": "The project is funded by the Operational Program \"Good Governance\", co-funded by the European Union through the European Social Fund in implementation of Project BG05SFOP001-1.006-0001-C01 \"Creation, upgrade and integration of information systems and registers of NACID to improve the process of providing administrative and reference services\"",
+			"SCROLL": "Up"
+		},
+		"HEADER": {
+			"MENU": {
+				"APPLICATION": "Application",
+				"HOME": "Home",
+				"LIST": "NRL",
+				"LOGIN": "Login with e-Auth",
+				"LOGOUT": "Logout",
+				"GREETING": "Welcome, "
+			},
+			"TITLE": {
+				"ABBREVIATION": "NACID",
+				"FIRST": "National Centre for",
+				"SECOND": "Information and Documentation"
+			}
+		},
+		"SUBHEADER": {
+			"TITLE": "National Reference List of contemporary Bulgarian scientific publications with scientific review"
+		}
+	},
+	"CONTACTS": {
+		"ADDRESS": {
+			"CONTENT": {
+				"FIRST": "NACID",
+				"SECOND": "52 A, Dr. G.M. Dimitrov Blvd.",
+				"THIRD": "1125 Sofia, Bulgaria"
+			},
+			"LABEL": "Address"
+		},
+		"EMAIL": {
+			"LABEL": "E-mail"
+		},
+		"PHONE": {
+			"LABEL": "Phone"
+		},
+		"WEBSITE": {
+			"LABEL": "Website"
+		}
+	},
+	"DOCUMENT": {
+		"TITLE": "National Reference List"
+	},
+	"HELP": {
+		"QUESTIONS": {
+			"SIGNATURE": {
+				"FIRST": {
+					"ANSWER": "The Communications Regulation Commission (CRC) maintains a register of the providers of identification services, issuing qualified electronic signature certificates. You need to purchase from one of the providers a qualified electronic signature, containing UIN.",
+					"QUESTION": "How do I obtain a qualified electronic signature?"
+				},
+				"SECOND": {
+					"ANSWER": "If you own a qualified electronic signature, issued by a registered by CRC provider of identification services, you need to contact your provider or to look on their website for sections \"Instructions for installation\" and/or \"Instructions for use\".",
+					"QUESTION": "How do I install a qualified electronic signature?"
+				}
+			},
+			"TITLE": "Questions & Answers"
+		},
+		"TECHNICAL": {
+			"BROWSERS": {
+				"CHROME": "Google Chrome 60 or newer",
+				"EDGE": "Microsoft Edge 14 or newer",
+				"EXPLORER": "Internet Explorer 10 or newer",
+				"FIREFOX": "Mozilla Firefox 54 or newer",
+				"OPERA": "Opera 42 or newer",
+				"SAFARI": "Safari 7 or newer"
+			},
+			"CONTENT": {
+				"FIRST": "For the correct operation of the system, it is necessary that execution of JavaScript is enabled in the browser. For details about enabling and disabling this functionality, consult the help guides of your browser of choice.",
+				"SECOND": "The system has been developed and tested with the following browsers:",
+				"THIRD": "Based on our latest observations from testing, the system works best on the Google Chrome browser. Our recommendation is for you to always try to use comtemporary and more powerful computers and to always work with the most recent version of your browser of choice."
+			},
+			"LABEL": "Technical Requirements"
+		},
+		"TERMS": {
+			"SIGNATURE": {
+				"FIRST": {
+					"DEFINITION": "The legal definition for a qualified electronic signature is given in Article 16 of the Electronic Document and Electronic Signature Act. It is issued only by a provider of identification services together with a certificate for qualified electronic signature. Every issued qualified electronic signature is linked in a unique manner to its author, it serves as a liability for the authorship of claims made by the owner of the signature, and it is created in a manner which limits as much as possible the possibility for illegal external interferences. Literally speaking, the electronic signature is a device, resembling in appearance a USB drive, a credit card with a chip, or a SIM card, on which the electronic certificate (certificate for qualified electronic signature) is stored.",
+					"TERM": "Qualified electronic signature"
+				},
+				"SECOND": {
+					"DEFINITION": "The system works only with qualified electronic signatures, containing the UIN of a natural person. Because providers are not required to include the UIN in a signature, it is necessary that you explicitly state your preference for this.",
+					"TERM": "Qualified electronic signature, containing UIN"
+				}
+			},
+			"TITLE": "Terminology"
+		}
+	},
+	"HOME": {
+		"APPLICATION": {
+			"STATUS": "Status",
+			"SUBMIT": "Submit",
+			"TITLE": "Application"
+		},
+		"DESCRIPTION": {
+			"FIRST": "The National Reference List of contemporary Bulgarian scientific publications with scientific review is maintained by the Minister of Education and Science through the National Center for Information and Documentation. The application for registering into the National Reference List of contemporary Bulgarian scientific publications with scientific review can be submitted by the issuing organizations in electronic or paper form to the provided contact information.",
+			"SECOND": "The list includes publications that apply scientific reviewing of the proposed articles and are registered at the National Agency of ISSN or ISBN. The publications in the List are organized into two groups: currently active and those which has been discontinued. An opportunity for users to search information by different criteria has been created."
+		},
+		"LIST": {
+			"SEARCH": "Search",
+			"TITLE": "National Reference List (NRL)"
+		}
+	},
+	"INSTRUCTIONS": {
+		"CONTENT": {
+			"COPYRIGHT": {
+				"DESCRIPTION": "The software ensures the functioning of this website, its design, including all information located on the page, they do not constitute public information subject to copyright. No part of objects of protection may not be reproduced, to translate, edit or used in any way without prior written consent of the National Centre for Information and Documentation.",
+				"TITLE": "Copyright"
+			},
+			"FOREIGN": {
+				"DESCRIPTION": "The National Centre for Information and Documentation is not responsible for the legality, completeness, accuracy and timeliness of the content of information resources of third parties to which they can link electronic links from this site, or the legality of the activities of these third parties. If you find instances of links to electronic information resources with outdated, incorrect or incomplete content or information resources, whose content is contrary to existing legislation, please let us know immediately.",
+				"TITLE": "Responsibility for Foreign Content"
+			},
+			"LOCAL": {
+				"DESCRIPTION": "The website content complies with the requirements of current legislation in Bulgaria. In case of discrepancy, obsolescence, questionable authenticity or illegality of any of the published information, please inform us immediately. The legal information found on this website is not a legal advice and is provided for informational purposes only. Any harm incurred as a result of legal or factual actions based on the published information is at the expense of the person undertaking these actions.",
+				"TITLE": "Content on the Website"
+			},
+			"PRIVACY": {
+				"DESCRIPTION": "Лични данни, които се събират чрез тази интернет страница, се обработват от Националния център за информация и документация при строго спазване на изискванията на действащото законодателство, включително Регламент (ЕС) 2016/679 на Европейския Парламент и на Съвета от 27 април 2016 година относно защитата на физическите лица във връзка с обработването на лични данни и относно свободното движение на такива данни и за отмяна на Директива 95/46/EО.",
+				"TITLE": "Personal data"
+			}
+		},
+		"INTRO": "This portal is maintained by the National Centre for Information and Documentation (NACID). While using this website, please note the following:",
+		"SIGNATURE": "To use the electronic services provided by the National Centre for Information and Documentation, you must have a valid certificate of qualified electronic signature in compliance with the Electronic Document Act and the Electronic Signature Act. The electronic signature must be issued by a Certification Service Provider according to the Regulation (EU) No 910/2014 of the European Parliament and of the Council of 23 July 2014."
+	},
+	"REGISTER": {
+		"SEARCH": {
+			"FORM": {
+				"ALL": "All",
+				"CLEAR": "Clear",
+				"LIMIT": "Number of results:",
+				"PUBLISHER": "Publisher",
+				"PUBLISHMENT_ENDYEAR": "End year",
+				"PUBLISHMENT_PLACE": "Place of publishing",
+				"PUBLISHMENT_YEAR": "Starting year",
+				"RESULTS_FOUND": "Results found:",
+				"RESULTS_NOTFOUND": "No results found!",
+				"SEARCH": "Search",
+				"SUBTITLE": "Subtitle",
+				"TITLE": "Title",
+				"NRSID": "NRS ID"
+			},
+			"TABLE": {
+				"NUMBER": {
+					"SECOND": "(PRINT AND/OR ELECTRONIC FORMAT)"
+				},
+				"PUBLISHER_URL": "Available at:",
+				"REFERENCES": "World databases (years)",
+				"TITLE": {
+					"FIRST": "Title in original language / parallel title in other language,",
+					"SECOND": "publisher, start year"
+				}
+			},
+			"TABS": {
+				"ACTIVE": "Active",
+				"INACTIVE": "Inactive"
+			}
+		}
+	},
+	"ROUTER": {
+		"ACCESSIBILITY": "Accessibility policy",
+		"APPLICATION": {
+			"CREATE": "New application",
+			"DESCRIPTION": "Description of service",
+			"INFO": "Registering into National Reference List of contemporary Bulgarian scientific publications with scientific review",
+			"MAIN": "Application for registering into National Reference List of contemporary Bulgarian scientific publications with scientific review",
+			"MODIFY": "Correction of application",
+			"STATUS": "Status of service"
+		},
+		"CONTACTS": "Contacts",
+		"HELP": "Help",
+		"HOME": "Home",
+		"INSTRUCTIONS": "Instructions for use",
+		"LIST": {
+			"MAIN": "National Reference List",
+			"SEARCH": "Search in the National Reference List of contemporary Bulgarian scientific publications with scientific review"
+		},
+		"PREVIEW": "Preview of document",
+		"SITEMAP": "Sitemap"
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"generationSpecs": [
+		"InternalGenerationSpec",
+		"PublicGenerationSpec"
+	],
+	"tabLength": 2,
+	"useTabCharacter": true,
+	"singleQuotes": true,
+	"outputPath": "../",
+	"csNullableTranslation": "null"
+}
+// Package Manager Console: typegen generate -p Server -c TypeGen/tgconfig.json

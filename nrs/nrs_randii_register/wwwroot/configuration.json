@@ -1,0 +1,14 @@
+{
+	"urls": {},
+	"defaultUrl": "restUrl",
+	"restUrlFromAppOrigin": true,
+	"isTestEnvironment": false,
+	"activeGARouting": false,
+	"trustedOrigins": [
+		"http://localhost:10101",
+		"http://localhost:4205",
+		"http://localhost:4200",
+		"http://localhost:4301",
+		"http://localhost:4203"
+	]
+}

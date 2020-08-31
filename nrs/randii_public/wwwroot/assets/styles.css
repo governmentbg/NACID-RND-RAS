@@ -1,0 +1,396 @@
+.arrow-right {
+	background-image: url(images/arrow-right.png)!important;
+	background-size: 15px!important;
+	float: left;
+	height: 30px;
+	margin: -10px 8px 0 0;
+	width: 30px;
+}
+
+.arrow-right,.arrow-up {
+	background: #4679b2;
+	background-position: center;
+	background-repeat: no-repeat;
+	border-radius: 50%;
+	cursor: pointer;
+	display: block;
+	text-align: center;
+}
+
+.arrow-up {
+	background-image: url(images/arrow-up.png);
+	background-size: 32px;
+	height: 70px;
+	margin: -35px auto 20px;
+	width: 70px;
+}
+
+.container {
+	max-width: 1200px;
+	min-width: 283px;
+	position: relative;
+	width: 100%;
+}
+
+.form-with-sections .help-questions h3.section-heading {
+	font-weight: 700;
+	margin: 0;
+	padding: 5px 0;
+}
+
+.form-with-sections .section-separator {
+	border-bottom: 1px solid #000;
+	height: 10px;
+	margin-bottom: 10px;
+}
+
+.form-with-sections h3.section-heading {
+	cursor: pointer;
+	font-weight: 400;
+	margin-left: 40px;
+}
+
+.form-with-sections h3.section-heading.opened .arrow-right {
+	transform: rotate(90deg);
+}
+
+.help-page h3 {
+	font-size: 18px;
+}
+
+.help-page h3:not(:first-child) {
+	margin: 50px 0 10px;
+}
+
+.help-questions {
+	margin-top: 30px;
+}
+
+.help-questions section {
+	padding-left: 40px;
+}
+
+.home-subheader h1 {
+	font-size: 30px;
+	font-weight: 700;
+	margin-top: 40px;
+	text-transform: uppercase;
+}
+
+.home-subheader p {
+	font-size: 18px;
+	margin-top: 0;
+}
+
+.ng-invalid:not(form).ng-touched {
+	border: 2px solid #A94442;
+}
+
+.page-content {
+	border: 1px solid #d8d8d8;
+	border-radius: 10px;
+	font-weight: 400;
+	padding: 20px 15px;
+}
+
+.panel-title a {
+	display: block;
+	padding-right: 25px;
+	position: relative;
+}
+
+.panel-title a.collapsed:before {
+	transform: rotate(180deg);
+}
+
+.panel-title a:before {
+	background-image: url(images/ic_expand_less_black_24px.svg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 36px;
+	content: " ";
+	height: 36px;
+	position: absolute;
+	right: -5px;
+	top: -8px;
+	transform: rotate(0deg);
+	transition: all .1s ease-in;
+	width: 36px;
+}
+
+.red {
+	color: #A94442;
+}
+
+.service-item {
+	background-color: #eee;
+	border-radius: 10px;
+	font-size: 18px;
+	font-weight: 300;
+	margin-bottom: 40px;
+	padding: 20px 15px 0;
+	text-align: center;
+}
+
+.service-item .icon {
+	margin: 0 0 5px;
+}
+
+.service-item .service-button {
+	background-color: #4679b2;
+	border-radius: 20px;
+	bottom: -15px;
+	color: #FFF;
+	display: inline-block;
+	font-size: 16px;
+	font-weight: 700;
+	line-height: 30px;
+	padding: 0 14px;
+	position: relative;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+
+.service-item .title {
+	display: block;
+	font-size: 24px;
+	margin: 15px 0;
+}
+
+.subheader {
+	background-image: url(images/subh.jpg);
+	background-position: left;
+	background-repeat: no-repeat;
+	background-size: auto 8px;
+	box-shadow: 0 3px 8px -2px rgba(0,0,0,0.7);
+	height: 8px;
+	position: relative;
+}
+
+.subheader.home-subheader {
+	background-image: url(images/home_background.jpg);
+	background-size: cover;
+	color: #FFF;
+	height: auto;
+	min-height: 138px;
+	text-align: center;
+}
+
+.text-heading {
+	margin-left: 15px;
+	text-align: justify;
+}
+
+.text-item {
+	margin: 20px 15px 0;
+	text-align: justify;
+}
+
+a:focus,header a.logo:hover {
+	text-decoration: none;
+}
+
+a:hover,a:focus {
+	color: inherit;
+	cursor: pointer;
+}
+
+body {
+	font-family: Roboto;
+	font-weight: 300;
+	line-height: 1.4em;
+	margin: 0;
+	min-width: 320px;
+	padding: 0;
+}
+
+button,a {
+	outline: none;
+}
+
+footer {
+	background: #eee;
+	margin-top: 80px;
+	text-align: center;
+	width: 100%;
+}
+
+footer .copyright {
+	display: block;
+	margin-bottom: 10px;
+	margin-top: 25px;
+}
+
+footer .footer-logo {
+	display: inline-block;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 1.3;
+	margin: 0 10px 30px;
+	width: 180px;
+}
+
+footer .footer-logo img {
+	display: block;
+	margin: 0 auto 10px;
+	width: 110px;
+}
+
+h1 {
+	font-size: 28px;
+	font-weight: 300;
+	line-height: 1em;
+	margin: 10px 0;
+}
+
+h1.centered-heading,h2.centered-heading {
+	display: block;
+	font-weight: 700;
+	margin-bottom: 20px;
+	text-align: center;
+}
+
+h2 {
+	font-size: 20px;
+	font-weight: 700;
+	line-height: 1em;
+	margin: 30px 0;
+}
+
+h2.centered-heading {
+	font-size: 24px;
+}
+
+header {
+	height: 105px;
+}
+
+header a.logo {
+	display: inline-block;
+	margin: 10px auto;
+}
+
+header a.logo img {
+	display: inline-block;
+	width: 80px;
+}
+
+header a.logo strong {
+	color: #4679b2;
+	display: inline-block;
+	font-size: 24px;
+	font-weight: 900;
+	line-height: 1.1;
+	margin-left: 3px;
+	position: relative;
+	text-transform: uppercase;
+	top: 18px;
+}
+
+header .language-menu {
+	float: right;
+	margin-left: 15px;
+	margin-top: 37px;
+}
+
+header .language-menu button.inactive {
+	background-color: #FFF;
+	color: #4679b2;
+}
+
+header .menu {
+	float: right;
+	margin-top: 37px;
+}
+
+header .menu a {
+	border-radius: 20px;
+	color: #4679b2;
+	display: inline-block;
+	font-size: 18px;
+	font-weight: bold;
+	line-height: 32px;
+	padding: 0 15px;
+	text-decoration: none;
+}
+
+header .menu a:hover, header .menu a.active {
+	background-color: #4679b2;
+	color: #FFF;
+}
+
+img {
+	border: none;
+	max-width: 100%;
+}
+
+nomenclature-select {
+  background-color: white;
+}
+
+multi-nomenclature-select {
+  background-color: white;
+}
+
+ul.browsers {
+	list-style: none;
+}
+
+ul.browsers li {
+	margin: 10px 0;
+}
+
+ul.browsers li img {
+	margin-right: 4px;
+	position: relative;
+	top: -1px;
+}
+
+@media (max-width: 767px) {
+	.form-with-sections h2.section-heading {
+		font-size: 17px;
+		padding-left: 40px;
+	}
+
+	header a.logo strong {
+		top: 5px;
+	}
+}
+
+@media (max-width: 479px) {
+	.home-subheader h1 {
+		font-size: 26px;
+	}
+
+	header {
+		height: 85px;
+	}
+
+	header a.logo img {
+		width: 60px;
+	}
+
+	header a.logo strong {
+		font-size: 18px;
+	}
+}
+
+#orientation-warning {
+	display: none;
+}
+
+@media only screen and (orientation: portrait) {
+	#orientation-content {
+		display: none;
+	}
+
+	#orientation-warning {
+		display: block;
+	}
+}
+
+@media only screen and (orientation: landscape) {
+	#orientation-warning {
+		display: none;
+	}
+}
